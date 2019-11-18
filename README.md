@@ -1,14 +1,10 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+#Resume Page
 
+This project was created with the Code Institute Full Stack Web Development course, bootstrap, CSS and HTML have all 
+been used to create it, as well as Google Fonts and Font Awesome icons.
 
-Hi there! Welcome to AWS Cloud9!
+I need to edit the downloadable CV as it is currently a black CV template. Currently the contact form does not go 
+anywhere and the social media links do not work. 
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+I will also edit the text as I progress through the course so that the information is correct.
 
-Happy coding!
